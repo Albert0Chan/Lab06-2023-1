@@ -3,7 +3,7 @@ public class OrdenarQuick implements Ordenador{
 
     @Override
     public int[] ordene(int[] array) {
-
+        String nam;
         return array;
     }
 
